@@ -9,7 +9,7 @@ The project includes **user authentication**, **ticket booking**, **payment simu
 - **Chella Muthu S**
 - **Raja Shameer RB**
 - **Santhosh P**
-- **Sundar S**
+- **Sundareswaran S**
 
 ---
 
@@ -42,8 +42,8 @@ README.md # Project documentation
 ## ⚙️ Installation & Setup
 
 1. **Clone the Repository**
-2. 
-   git clone https://github.com/santhoshh-maax/bus-booking-GUI.git
+   
+2. git clone https://github.com/santhoshh-maax/bus-booking-GUI.git
    cd bus-booking-GUI
 
 
@@ -62,7 +62,9 @@ Run the Application
 
 
 python bookingfinal.py
+
 📌 Usage
+
 Sign Up for a new account.
 
 Login with your credentials.
@@ -79,4 +81,4 @@ Confirm Booking and proceed to Payment.
 
 Receive a unique Ticket ID after successful payment.
 
-This project is for educational purposes as part of a workshop challenge.
+## This project is for educational purposes as part of a workshop challenge.
