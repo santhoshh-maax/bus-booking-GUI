@@ -33,7 +33,9 @@ The project includes **user authentication**, **ticket booking**, **payment simu
 
 ## 📂 Project Structure
 bookingfinal.py # Main application file
+
 qr_code.png # QR code image for payment (must be in same directory)
+
 README.md # Project documentation
 
 
@@ -50,6 +52,7 @@ README.md # Project documentation
 Install Dependencies
 
 pip install pillow tkcalendar pyodbc
+
 Set Up Database
 
 Create a SQL Server database.
@@ -59,7 +62,6 @@ Update the connection details in bookingfinal.py inside the db_connect() functio
 Run the application once to auto-create required tables.
 
 Run the Application
-
 
 python bookingfinal.py
 
